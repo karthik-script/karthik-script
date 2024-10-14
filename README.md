@@ -49,5 +49,3 @@ I'm a **Senior Front-End Engineer** specializing in modern web development techn
 📫 **Let's Connect!**
 
 Feel free to explore my repositories or reach out if you'd like to collaborate on exciting projects!
-
-You can now copy and paste this Markdown into your GitHub bio or any other platform that supports markdown formatting!
