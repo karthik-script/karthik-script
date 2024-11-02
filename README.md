@@ -49,3 +49,6 @@ I'm a **Senior Front-End Engineer** specializing in modern web development techn
 📫 **Let's Connect!**
 
 Feel free to explore my repositories or reach out if you'd like to collaborate on exciting projects!
+
+[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik-script)](https://github.com/anuraghazra/github-readme-stats)
+
